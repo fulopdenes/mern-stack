@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(160, 160, 255);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.table_title {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+}
+
+.headerlvlFilter {
+  width: 80px;
+}
+
+.headerpositionFilter {
+  width: 90px;
+}
+
+.tbodyCentered{
+  text-align: center;
+  align-content: center;
+}
+/* 
+=================
+Table
+=====================
+*/
+
+.table_container {
+  max-width: 1250px;
+  /* max-height: 500px; */
+  margin: 0 auto;
+  /* overflow: auto; */
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.table {
+  border: 1px solid;
+  width: 100%;
+  border-spacing: 0;
+}
+
+caption {
+  font-style: italic;
+  font-size: 90%;
+  margin-bottom: 10px;
+}
+
+.table th {
+  min-width: 90px;
+  background: #fff;
+  padding: 8px 10px;
+  border-bottom: 1px solid #1a1a1a;
+  font-weight: bold;
+  text-align: center;
+}
+
+.table th.up {
+  background-image: url("./images/up_arrow.png");
+}
+.table th.down {
+  background-image: url("./images/down_arrow.png");
+}
+.table th.default {
+  background-image: url("./images/default.png");
+}
+th.up,
+th.default,
+th.down {
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-position: center right;
+}
+
+.table td {
+  border-top: 1px solid #ddd;
+  padding: 0px 2px;
+  
+}
+
+.table tbody tr:first-child td {
+  border-top: none;
+}
+
+.table tbody tr:nth-child(n) td {
+  text-align: center;
+  background: #eff0f0;
+}
+
+.table tbody tr:nth-child(2n) td {
+  background: #fff;
+}
+
+/* 
+=================
+HomePage
+=====================
+*/
+
+.HomePage {
+  padding: 50px;
+  text-align: center;
+  position: relative;
+}
+
+
+/* 
+=================
+error-page
+=====================
+*/
+#error-page {
+  padding: 50px;
+  text-align: center;
+  position: relative;
+}
+
+/* 
+=================
+Mini-table
+=====================
+*/
+
+.minitable_container {
+  border-radius: 10px;
+  max-width: 1250px;
+  max-height: 200px;
+  /* max-height: 500px; */
+  margin: 0 auto;
+  overflow: auto; 
+  padding: 40px;
+
+}

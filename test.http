@@ -1,0 +1,23 @@
+GET http://localhost:8080/api/employees/
+
+###
+POST http://localhost:8080/api/employees/
+Content-Type: application/json
+
+{
+  "name": "Robert Downey Jr.",
+  "level": "Senior",
+  "position": "Sidekick"
+}
+
+###
+DELETE http://localhost:8080/api/employees/63389df3cbc433ed9ba2fc2ss
+
+###
+PATCH http://localhost:8080/api/employees/63389e02cbc433ed9ba2fc27
+Content-Type:  application/json
+
+{
+  "level": "Super Expert",
+  "foo": "bar"
+}
