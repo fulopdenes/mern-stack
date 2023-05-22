@@ -1,4 +1,4 @@
-# Employee Data
+# Mern Stack - Employee Data Manager
 
 ## Server side
 
