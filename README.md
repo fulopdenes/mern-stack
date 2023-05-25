@@ -1,3 +1,5 @@
+- ezt átirni olyan amit gyorsan lehet olvasni és konzekvens. same to first
+-
 # Mern Stack - Employee Data Manager
 
 ## Server side
