@@ -1,9 +1,11 @@
+<a name="readme-top"></a>
+
 # Mern Stack - Employee Data Manager
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#mern-stack">Description</a>
+      <a href="#mern-stack---employee-data-manager">Description</a>
     </li>
     <li>
       <a href="#features">Features</a>
@@ -11,11 +13,11 @@
     <li><a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#i-server-side">I.Server Side</a></li>
-        <li><a href="#II.client-side">II.Client Side</a></li>
+        <li><a href="#ii-client-side">II.Client Side</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#screenshots">Sreenshots</a></li>
+    <li><a href="#used-technologies">Used Technologies</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -35,6 +37,8 @@ salary, position) can be recorded.
 4. Add new / update existing / delete equipment parameters.
 5. Responsive UI design.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Getting Started
 
 ### I. Server side:
@@ -50,11 +54,6 @@ npm install
 
 At .env file fill up the environment variable for your personal mongodb connection url.
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-
 #### Prepare the database
 Make sure the MongoDB URL is fine. After the missing URL is completed, please follow these steps:
 ```bash
@@ -69,6 +68,8 @@ npm run dev
  ```
 
 It will start the server with nodemon. So it will watch the changes and restart the server if some ot the files changed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### II. Client side:
 
@@ -94,12 +95,19 @@ npm start
 
 And the create-react-app react-scripts package will start your frontend on the 3000 port and you can visit the http://localhost:3000 on your preferred browser.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 #### Testing with test.http
 
 If you like to try the endpoints of the rest api, you can check the test.http file for urls are should work on your environment as well. And if you install the [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) extenstion for vscode you can actually run those in your editor.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Screenshots
 In progress..
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Used Technologies
 
@@ -117,16 +125,25 @@ In progress..
 * **UI Components**: Material-UI
 * **API Communication**: Fetch API
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## License
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
 MIT © Fülöp Dénes
 
-<!-- Contact -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to contact me at denes.fulopp@gmail.com.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## Acknowledgments
 
 In progress..
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
