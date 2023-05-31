@@ -26,8 +26,6 @@ const main = async () => {
   app.listen(PORT, () => {
     console.log("App is listening on 8080");
     console.log("Server is running with success...");
-    // console.log("Try /api/employees route right now");
-    // console.log("Try /api/equipments route right now");
   });
 };
 

@@ -40,9 +40,9 @@ Table
 
 .table_container {
   max-width: 1250px;
-  /* max-height: 500px; */
+   /*max-height: 500px;*/
   margin: 0 auto;
-  /* overflow: auto; */
+   overflow: auto;
   padding-left: 40px;
   padding-right: 40px;
 }
