@@ -10,7 +10,7 @@
     </li>
     <li><a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#I.-Server-side">I.Server Side</a></li>
+        <li><a href="#i-server-side">I.Server Side</a></li>
         <li><a href="#II.client-side">II.Client Side</a></li>
       </ul>
     </li>
