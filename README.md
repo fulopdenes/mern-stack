@@ -3,7 +3,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Mern Stack">Description</a>
+      <a href="#Mern-stack">Description</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
