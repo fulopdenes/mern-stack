@@ -5,7 +5,8 @@ Employee data can be recorded, such as: favorite color, current salary, name, de
 ## Features
 1. Add new / update existing / delete employee paramters.
 2. Filtering, sorting existing data.
-3. Add new / update existing / delete equipment parameters.
+3. Picking colors from palette.
+4. Add new / update existing / delete equipment parameters.
 
 ## Installation Guide & Getting Started
 
