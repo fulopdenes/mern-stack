@@ -121,7 +121,8 @@ This project is licensed under the MIT License.
 See the LICENSE file for more details.
 MIT © Fülöp Dénes
 
-## Contact Information
+<!-- Contact -->
+## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to contact me at denes.fulopp@gmail.com.
 
