@@ -5,7 +5,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#mern-stack---employee-data-manager">Description</a>
+      <a href="#description">Description</a>
     </li>
     <li>
       <a href="#features">Features</a>
@@ -24,6 +24,8 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+## Description
 
 This is a web-based software where employee parameters (ex.: favorite color, current salary, name, desired
 salary, position) can be recorded. 
