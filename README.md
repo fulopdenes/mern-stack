@@ -1,6 +1,11 @@
-- ezt átirni olyan amit gyorsan lehet olvasni és konzekvens. same to first
--
 # Mern Stack - Employee Data Manager
+Employee data can be recorded, such as: favorite color, current salary, name, desired salary, position name. 
+
+## Features
+1. Add new / update existing / delete employee paramters.
+2. Filter, sort existing data.
+3. Add new / update existing / delete equipment parameters.
+4. 
 
 ## Server side
 
