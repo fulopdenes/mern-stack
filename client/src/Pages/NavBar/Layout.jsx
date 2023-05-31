@@ -22,8 +22,6 @@ const Layout = () => {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             <Link to="/equipments">Equipments</Link>
           </Typography>
-          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          </Typography>
         </Toolbar>
       </AppBar>
       <Outlet />
