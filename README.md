@@ -8,7 +8,7 @@
     <li>
       <a href="#features">Features</a>
     </li>
-    <li><a href="#installation">Installation Guide & Getting Started</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -30,7 +30,7 @@ salary, position) can be recorded.
 4. Add new / update existing / delete equipment parameters.
 5. Responsive UI design.
 
-## Installation Guide & Getting Started
+## Getting Started
 
 ### I. Server side:
 ```bash
