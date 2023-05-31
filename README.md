@@ -135,6 +135,7 @@ See the LICENSE file for more details.
 MIT © Fülöp Dénes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to contact me at denes.fulopp@gmail.com.
