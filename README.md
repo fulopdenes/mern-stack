@@ -9,11 +9,10 @@
       <a href="#features">Features</a>
     </li>
     <li><a href="#getting-started">Getting Started</a>
-    <ul>
-        <li><a href="#I.server-side">I.Server Side</a></li>
+      <ul>
+        <li><a href="#I.-Server-side">I.Server Side</a></li>
         <li><a href="#II.client-side">II.Client Side</a></li>
       </ul>
-    
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
