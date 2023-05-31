@@ -14,6 +14,7 @@
       <ul>
         <li><a href="#i-server-side">I.Server Side</a></li>
         <li><a href="#ii-client-side">II.Client Side</a></li>
+        <li><a href="#iii-testing-with-testhttp">Testing with Testhttp</a></li>
       </ul>
     </li>
     <li><a href="#screenshots">Sreenshots</a></li>
@@ -97,7 +98,7 @@ And the create-react-app react-scripts package will start your frontend on the 3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Testing with test.http
+### III. Testing with test.http
 
 If you like to try the endpoints of the rest api, you can check the test.http file for urls are should work on your environment as well. And if you install the [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) extenstion for vscode you can actually run those in your editor.
 
