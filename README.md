@@ -1,5 +1,6 @@
 # Mern Stack - Employee Data Manager
-Employee data can be recorded, such as: favorite color, current salary, name, desired salary, position name. 
+
+Employee data can be recorded, such as: favorite color, current salary, name, desired salary, position name.
 
 ## Features
 1. Add new / update existing / delete employee paramters.
@@ -8,8 +9,8 @@ Employee data can be recorded, such as: favorite color, current salary, name, de
 
 ## Installation Guide & Getting Started
 
-1. Fork the repository.
-2. Navigate to the project directory: cd constructionData-myStock
+1. Fork this repository.
+2. Navigate to the project directory: cd mern-stack
 3. Install dependencies for the backend:
    * Run cd backend to enter the backend directory.
    * Run mvn install to install the required Java dependencies. `npm install`
