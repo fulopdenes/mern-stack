@@ -27,17 +27,17 @@
 
 ## Description
 
-This is a web-based software where employee parameters (ex.: favorite color, current salary, name, desired
-salary, position) can be recorded. 
+This is a web-based software where employee and equipments parameters easily can be recorded.
+Structure:
 * Server requests and paramateres are handled by Express.js;
-* Database is provided by Mongo DB services;
-* UI is provided by React Libraries and JavaScript codes;
+* Database services is provided by Mongo DB;
+* UI design is provided by React Libraries, MUI Components and JavaScript codes;
 
 ## Features
-1. Add new / update existing / delete employee parameters.
+1. ADD new- / UPDATE existing- / DELETE- employee parameters.
 2. Filter and sort existing data at frontend.
 3. Picking colors from palette.
-4. Add new / update existing / delete equipment parameters.
+4. ADD new- / UPDATE existing- / DELETE- equipment parameters.
 5. Responsive UI design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
