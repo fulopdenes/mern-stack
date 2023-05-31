@@ -21,13 +21,15 @@
   </ol>
 </details>
 
-## Description 
-The employee parameters (ex.: favorite color, current salary, name, desired
-salary, position) can be recorded by using this program. 
+This is a web-based software where employee parameters (ex.: favorite color, current salary, name, desired
+salary, position) can be recorded. 
+* Server requests and paramateres are handled by Express.js;
+* Database is provided by Mongo DB services;
+* UI is provided by React Libraries and JavaScript codes;
 
 ## Features
 1. Add new / update existing / delete employee parameters.
-2. Filtering, sorting existing data.
+2. Filter and sort existing data at frontend.
 3. Picking colors from palette.
 4. Add new / update existing / delete equipment parameters.
 5. Responsive UI design.
