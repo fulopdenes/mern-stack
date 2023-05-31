@@ -1,5 +1,27 @@
 # Mern Stack - Employee Data Manager
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
+## Description 
 The employee parameters (ex.: favorite color, current salary, name, desired
 salary, position) can be recorded by using this program. 
 
@@ -24,6 +46,11 @@ npm install
 #### Configuration of `.env` file:
 
 At .env file fill up the environment variable for your personal mongodb connection url.
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
 
 #### Prepare the database
 Make sure the MongoDB URL is fine. After the missing URL is completed, please follow these steps:
