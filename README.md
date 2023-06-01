@@ -25,6 +25,8 @@
   </ol>
 </details>
 
+![APPLE!] (https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202210120916)
+
 ## Description
 
 This is a web-based software where employee and equipments parameters easily can be recorded.
