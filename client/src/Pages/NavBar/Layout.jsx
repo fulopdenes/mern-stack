@@ -14,7 +14,7 @@ const Layout = () => {
             component="div"
             sx={{ color: "black", flexGrow: 1 }}
           >
-            <Link to="/mern-stack">TopMERN</Link>
+            <Link to="/">TopMERN</Link>
           </Typography>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             <Link to="/employees">Employees</Link>
