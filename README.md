@@ -119,7 +119,7 @@ If you like to try the endpoints of the rest api, you can check the test.http fi
     <img width="40%" src="https://i.kek.sh/et1zYe082kv.png">
 </p>
 
-2. Picking colors from palette for new or existing employee.
+2. Picking colors from palette for NEW or EXISTING employee.
 
 <p align="center" width="100%">
     <img width="40%" src="https://i.kek.sh/Ag7Z8zZOnnB.png">
