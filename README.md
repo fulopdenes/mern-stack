@@ -25,22 +25,7 @@
   </ol>
 </details>
 
-1. ADD new- / UPDATE existing- / DELETE- employee and equipment parameters with filter and sort features. (with responsive UI design)
 
-<p align="center" width="100%">
-    <img width="80%" src="https://i.kek.sh/wWrmoyLRiRx.png">
-</p>
-
-<p align="center" width="100%">
-    <img width="40%" src="https://i.kek.sh/et1zYe082kv.png">
-</p>
-
-2. Picking colors from palette for new or existing employee.
-
-<p align="center" width="100%">
-    <img width="40%" src="https://i.kek.sh/Ag7Z8zZOnnB.png">
-  <img width="40%" src="https://i.kek.sh/KPZAZOY80En.png">
-</p>
 
 ## Description
 
@@ -124,7 +109,23 @@ If you like to try the endpoints of the rest api, you can check the test.http fi
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Screenshots
-In progress..
+
+1. ADD new- / UPDATE existing- / DELETE- employee and equipment parameters with filter and sort features. (with responsive UI design)
+
+<p align="center" width="100%">
+    <img width="80%" src="https://i.kek.sh/wWrmoyLRiRx.png">
+</p>
+
+<p align="center" width="100%">
+    <img width="40%" src="https://i.kek.sh/et1zYe082kv.png">
+</p>
+
+2. Picking colors from palette for new or existing employee.
+
+<p align="center" width="100%">
+    <img width="40%" src="https://i.kek.sh/Ag7Z8zZOnnB.png">
+  <img width="40%" src="https://i.kek.sh/KPZAZOY80En.png">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
