@@ -25,7 +25,7 @@
   </ol>
 </details>
 
-
+[![A mushroom-head robot](https://i.kek.sh/Ag7Z8zZOnnB.png)](https://example.com)
 
 ## Description
 
