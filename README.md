@@ -34,7 +34,7 @@ This is a web-based software where employee and equipments parameters easily can
 
 Click on the image below to open the website:
 
-[![](https://i.kek.sh/1PTb6RtgMse.png)](https://example.com)
+[![](https://i.kek.sh/1PTb6RtgMse.png)](https://fulopdenes.github.io/)
 
 ## Features
 1. ADD new- / UPDATE existing- / DELETE- employee parameters.
