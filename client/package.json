@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://fulopdenes.github.io/mern-stack",
+  "homepage": "https://fulopdenes.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
