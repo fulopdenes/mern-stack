@@ -26,12 +26,21 @@
 </details>
 
 1. ADD new- / UPDATE existing- / DELETE- employee and equipment parameters with filter and sort features. (with responsive UI design)
-![CRUDEQ](https://i.kek.sh/wWrmoyLRiRx.png)
-![CRUDE](https://i.kek.sh/et1zYe082kv.png)
+
+<p align="center" width="100%">
+    <img width="80%" src="https://i.kek.sh/wWrmoyLRiRx.png">
+</p>
+
+<p align="center" width="100%">
+    <img width="40%" src="https://i.kek.sh/et1zYe082kv.png">
+</p>
 
 2. Picking colors from palette for new or existing employee.
-![createEmployeeColor](https://i.kek.sh/Ag7Z8zZOnnB.png)
-![updateEmployeeColor](https://i.kek.sh/KPZAZOY80En.png)
+
+<p align="center" width="100%">
+    <img width="40%" src="https://i.kek.sh/Ag7Z8zZOnnB.png">
+  <img width="40%" src="https://i.kek.sh/KPZAZOY80En.png">
+</p>
 
 ## Description
 
