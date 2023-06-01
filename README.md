@@ -36,8 +36,8 @@ This is a web-based software where employee and equipments parameters easily can
 
 ## Features
 1. ADD new- / UPDATE existing- / DELETE- employee parameters.
-2. Filter and sort existing data at frontend.
-3. Picking colors from palette.
+2. Filter and sort existing data.
+3. Picking colors and dates.
 4. ADD new- / UPDATE existing- / DELETE- equipment parameters.
 5. Responsive UI design.
 
