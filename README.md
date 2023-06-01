@@ -25,7 +25,9 @@
   </ol>
 </details>
 
-[![A mushroom-head robot](https://i.kek.sh/Ag7Z8zZOnnB.png)](https://example.com)
+Click to picture to open the static website:
+
+[![](https://i.kek.sh/1PTb6RtgMse.png)](https://example.com)
 
 ## Description
 
