@@ -25,16 +25,16 @@
   </ol>
 </details>
 
-Click to picture to open the static website:
-
-[![](https://i.kek.sh/1PTb6RtgMse.png)](https://example.com)
-
 ## Description
 
 This is a web-based software where employee and equipments parameters easily can be recorded:
 * Server requests and paramateres are handled by Express.js;
 * Database services is provided by Mongo DB;
-* UI design is provided by React Libraries, MUI Components and JavaScript codes;
+* UI design is provided by React Libraries, MUI Components and JavaScript codes;ű
+
+Click on the image below to open the website:
+
+[![](https://i.kek.sh/1PTb6RtgMse.png)](https://example.com)
 
 ## Features
 1. ADD new- / UPDATE existing- / DELETE- employee parameters.
