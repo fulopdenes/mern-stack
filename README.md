@@ -25,7 +25,13 @@
   </ol>
 </details>
 
-![APPLE!] (https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202210120916)
+1. ADD new- / UPDATE existing- / DELETE- employee and equipment parameters with filter and sort features. (with responsive UI design)
+![CRUDEQ](https://i.kek.sh/wWrmoyLRiRx.png)
+![CRUDE](https://i.kek.sh/et1zYe082kv.png)
+
+2. Picking colors from palette for new or existing employee.
+![createEmployeeColor](https://i.kek.sh/Ag7Z8zZOnnB.png)
+![updateEmployeeColor](https://i.kek.sh/KPZAZOY80En.png)
 
 ## Description
 
