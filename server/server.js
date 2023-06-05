@@ -2,6 +2,7 @@ require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
 const employeesRouter = require("./routes/employees.router");
+const cors = require("cors");
 
 const equipmentsRouter = require("./routes/equipments.router");
 
@@ -11,9 +12,13 @@ if (!MONGO_URL) {
   console.error("Missing MONGO_URL environment variable");
   process.exit(1);
 }
+const corsOptions = {
+  origin: "http://localhost:3000"
+};
 
 const app = express();
 
+app.use(cors(corsOptions));
 app.use(express.json());
 
 app.use("/api/employees", employeesRouter);
