@@ -26,6 +26,7 @@
     "start": "react-scripts start",
     "build": "react-scripts start",
     "predeploy": "npm run build",
+    "deploy": "gh-pages -d docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -47,6 +48,7 @@
       "last 1 safari version"
     ]
   },
+  "proxy": "https://mern-stack-server-peec.onrender.com",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
