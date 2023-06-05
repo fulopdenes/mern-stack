@@ -32,9 +32,7 @@ This is a web-based software where employee and equipments parameters easily can
 * Database services is provided by Mongo DB;
 * UI design is provided by React Libraries, MUI Components and JavaScript codes;ű
 
-Click on the image below to open the website:
-
-[![](https://i.kek.sh/1PTb6RtgMse.png)](https://mernstack-cdpu.onrender.com)
+You can reach the public site at the following link: https://mernstack-cdpu.onrender.com
 
 ## Features
 1. ADD new- / UPDATE existing- / DELETE- employee parameters.
