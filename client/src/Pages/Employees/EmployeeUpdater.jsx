@@ -5,7 +5,7 @@ import EmployeeForm from "../../Components/Forms/EmployeeForm";
 import Loading from "../../Components/Loading";
 
 const updateEmployee = (employee) => {
-  return fetch(`/api/employees/${employee._id}`, {
+  return fetch(`${process.env.REACT_APP_API_URL}/api/employees/${employee._id}`, {
     method: "PATCH",
     headers: {
       "Content-Type": "application/json",
@@ -15,7 +15,7 @@ const updateEmployee = (employee) => {
 };
 
 const fetchEmployee = (id) => {
-  return fetch(`/api/employees/${id}`).then((res) => res.json());
+  return fetch(`${process.env.REACT_APP_API_URL}/api/employees/${id}`).then((res) => res.json());
 };
 
 const EmployeeUpdater = () => {

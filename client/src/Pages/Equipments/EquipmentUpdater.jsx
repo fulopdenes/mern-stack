@@ -5,7 +5,7 @@ import EquipmentForm from "../../Components/Forms/EquipmentForm";
 import Loading from "../../Components/Loading";
 
 const updateEquipment = (equipment) => {
-  return fetch(`/api/equipments/${equipment._id}`, {
+  return fetch(`${process.env.REACT_APP_API_URL}/api/equipments/${equipment._id}`, {
     method: "PATCH",
     headers: {
       "Content-Type": "application/json",
@@ -15,7 +15,7 @@ const updateEquipment = (equipment) => {
 };
 
 const fetchEquipment = (id) => {
-  return fetch(`/api/equipments/${id}`).then((res) => res.json());
+  return fetch(`${process.env.REACT_APP_API_URL}/api/equipments/${id}`).then((res) => res.json());
 };
 
 const EquipmentUpdater = () => {

@@ -3,11 +3,11 @@ import { EquipmentTable } from "../../Components/EquipmentTable/EquipmentTable";
 import Loading from "../../Components/Loading";
 
 const fetchEquipments = (signal) => {
-  return fetch("/api/equipments", { signal }).then((res) => res.json());
+  return fetch(`${process.env.REACT_APP_API_URL}/api/equipments`, { signal }).then((res) => res.json());
 };
 
 const deleteEquipment = (id) => {
-  return fetch(`/api/equipments/${id}`, { method: "DELETE" }).then((res) =>
+  return fetch(`${process.env.REACT_APP_API_URL}/api/equipments/${id}`, { method: "DELETE" }).then((res) =>
     res.json()
   );
 };
@@ -17,7 +17,7 @@ export const EquipmentsList = () => {
   const [data, setData] = useState(null);
 
   const handleDelete = (id) => {
-    deleteEquipment(id).catch((err) => {});
+    deleteEquipment(id).catch(() => {});
 
     setData((equipments) => {
       return equipments.filter((equipment) => equipment._id !== id);

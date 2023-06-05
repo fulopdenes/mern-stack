@@ -3,15 +3,15 @@ import Loading from "../../Components/Loading";
 import EmployeeTable from "../../Components/EmployeeTable/EmployeeTable";
 
 const fetchEmployees = (signal) => {
-  return fetch("/api/employees", { signal }).then((res) => res.json());
+  return fetch(`${process.env.REACT_APP_API_URL}/api/employees`, { signal }).then((res) => res.json());
 };
 
 const fetchEquipments = (signal) => {
-  return fetch("/api/equipments", { signal }).then((res) => res.json());
+  return fetch(`${process.env.REACT_APP_API_URL}/api/equipments`, { signal }).then((res) => res.json());
 };
 
 const deleteEmployee = (id) => {
-  return fetch(`/api/employees/${id}`, { method: "DELETE" }).then((res) =>
+  return fetch(`${process.env.REACT_APP_API_URL}/api/employees/${id}`, { method: "DELETE" }).then((res) =>
     res.json()
   );
 };
@@ -24,7 +24,7 @@ const EmployeeList = () => {
   const deletedItemRefID = useRef();
   const handleDelete = (id) => {
     deletedItemRefID.current = id;
-        deleteEmployee(deletedItemRefID.current).catch((err) => {});
+        deleteEmployee(deletedItemRefID.current).catch(() => {});
         setData((employees) => {
           return employees.filter(
             (employee) => employee._id !== deletedItemRefID.current

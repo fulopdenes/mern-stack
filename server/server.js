@@ -13,7 +13,7 @@ if (!MONGO_URL) {
   process.exit(1);
 }
 const corsOptions = {
-  origin: "http://localhost:3000"
+  origin: "https://mernstack-cdpu.onrender.com"
 };
 
 const app = express();

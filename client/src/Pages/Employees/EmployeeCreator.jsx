@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import EmployeeForm from "../../Components/Forms/EmployeeForm";
 
 const createEmployee = (employee) => {
-  return fetch("/api/employees", {
+  return fetch(`${process.env.REACT_APP_API_URL}/api/employees`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
