@@ -23,8 +23,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "env-cmd -f .env.build react-scripts start",
-    "build": "react-scripts docs",
+    "start": "react-scripts start",
+    "build": "env-cmd -f .env.build react-scripts start",
     "predeploy": "npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
