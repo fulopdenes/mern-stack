@@ -30,7 +30,7 @@
 This is a web-based software where employee and equipments parameters easily can be recorded:
 * Server requests and paramateres are handled by Express.js;
 * Database services is provided by Mongo DB;
-* UI design is provided by React Libraries, MUI Components and JavaScript codes;ű
+* UI design is provided by React Libraries, MUI Components and JavaScript codes;
 
 You can reach the public site at the following link: https://mernstack-cdpu.onrender.com
 
