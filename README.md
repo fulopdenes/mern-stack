@@ -32,7 +32,7 @@ This is a web-based software where employee and equipments parameters easily can
 * Database services is provided by Mongo DB;
 * UI design is provided by React Libraries, MUI Components and JavaScript codes;
 
-You can reach the public site at the following link: https://mernstack-cdpu.onrender.com ! The server works through a free service provider, so it does not run permanently. After the first request, it starts and you need to wait approximately 7 ms.
+You can reach the public site at the following link: https://mernstack-cdpu.onrender.com ! The server works through a free service provider, so it does not run permanently. After the first request, it starts and you need to wait approximately 15 ms.
 
 ## Features
 1. ADD new- / UPDATE existing- / DELETE- employee parameters.
