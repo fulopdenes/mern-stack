@@ -112,29 +112,29 @@ const TableBody = ({tableData, columns, onDelete, path}) => {
                                 let result = `${restDidits} ${middle3digit} ${last3digit} Ft`;
                                 return <td key={accessor}>{result}</td>;
                             }
-                            if (accessor === "equipments") {
-                                return (
-                                    <td key={accessor} className="btn-eq">
-                                        <>
-                                            <Link to={`${path}/update/${data._id}`}>
-                                                <Button
-                                                    style={{
-                                                        minWidth: "90px",
-                                                        // background: "#ff642f",
-                                                        // color: "black",
-                                                        // border: "none",
-                                                        cursor: "pointer",
-                                                        borderRadius: "10px",
-                                                    }}
-                                                    variant="outlined"
-                                                >
-                                                    Add Equipment
-                                                </Button>
-                                            </Link>
-                                        </>
-                                    </td>
-                                );
-                            }
+                            // if (accessor === "equipments") {
+                            //     return (
+                            //         <td key={accessor} className="btn-eq">
+                            //             <>
+                            //                 <Link to={`${path}/update/${data._id}`}>
+                            //                     <Button
+                            //                         style={{
+                            //                             minWidth: "90px",
+                            //                             // background: "#ff642f",
+                            //                             // color: "black",
+                            //                             // border: "none",
+                            //                             cursor: "pointer",
+                            //                             borderRadius: "10px",
+                            //                         }}
+                            //                         variant="outlined"
+                            //                     >
+                            //                         Add Equipment
+                            //                     </Button>
+                            //                 </Link>
+                            //             </>
+                            //         </td>
+                            //     );
+                            // }
 
                             if (accessor === "actions") {
                                 return (
